@@ -16,4 +16,4 @@ statistics will be descriptive statistic and the box-plotting,we will be also be
 normally distributed or not by various methods mainly the Q-Q Plot,Shapiro-Wilk test,Histogram and provide the
 assumption for the distribution .
 
-The repository have all the codes including the report prepared .
+The repository have all the codes including the report prepared . It was a team effort where each member contributed equally in understanding and brainstorming.
